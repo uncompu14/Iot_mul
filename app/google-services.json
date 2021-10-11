@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780557231519",
+    "project_id": "iot-multimeter",
+    "storage_bucket": "iot-multimeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780557231519:android:d3cc7b2e0399832a6809aa",
+        "android_client_info": {
+          "package_name": "com.hanium.iot_mul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780557231519-ed0uv2gin32jtq8baofm6m4cbm86s616.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanium.iot_mul",
+            "certificate_hash": "a55ee9db66fd41dd200d9c29f1108bd8a0dc0aa1"
+          }
+        },
+        {
+          "client_id": "780557231519-f841qjb906eeinji4nt5ndfb1aqnv56q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNwKb2EbB4IGvYX7JUTltdg_t45byKDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780557231519-f841qjb906eeinji4nt5ndfb1aqnv56q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
